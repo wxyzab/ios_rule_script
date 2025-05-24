@@ -1,0 +1,27 @@
+# NAME: DMM
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:17:40
+# DOMAIN-SUFFIX: 18
+# IP-CIDR: 2
+# TOTAL: 20
+akabeesoft2.com
+akabeesoft3.com
+akatsukiworks.com
+alicesoft.com
+api-p.videomarket.jp
+cosmiccute.com
+ddo.jp
+dmm-extension.com
+dmm.co.jp
+dmm.com
+dmm.hk
+dmmapis.com
+dmmrex.com
+hibiki-site.com
+minori.ph
+navismithapis-cdn.com
+tenco.cc
+wheel-soft.com
+IP-CIDR,125.6.189.7/32,no-resolve
+IP-CIDR,203.104.209.7/32,no-resolve
